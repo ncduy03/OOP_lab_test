@@ -29,13 +29,14 @@ public class Cart {
         }
         System.out.println("Cannot find the item.");
     }
-
-    public float totalCost(){
-        float cost = 0;
-        for (DigitalVideoDisc item : itemsOrdered) {
-            if (item != null)
-                cost += item.getCost();
+    
+    public float totalCost() {
+        float total = 0;
+        for (int i = 0; i < qtyOrdered; i++) {
+            total += itemsOrdered[i].getCost();
         }
-        return cost;
+        return total;
     }
 }
+
+
