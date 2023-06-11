@@ -291,7 +291,33 @@ public class Aims {
             }
         } while (choice != 0);
     }
-
+    public static void sortMediaInCart() {
+        int choice;
+        do {
+            cart.showCart();
+            System.out.println("Sort medias in cart: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Sort by Cost");
+            System.out.println("2. Sort by Title");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();scanner.nextLine();
+            switch (choice) {
+                case 1:
+                    cart.sortByCostTitle();
+                    cart.showCart();
+                    break;
+                case 2:
+                    cart.sortByTitleCost();
+                    cart.showCart();
+                    break;
+                case 0:
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
+    }
     public static void filterMediaInCart(){
         int choice;
         do {
@@ -333,33 +359,6 @@ public class Aims {
             }
         } while(choice != 0);
     }
-    public static void sortMediaInCart() {
-        int choice;
-        do {
-            cart.showCart();
-            System.out.println("Sort medias in cart: ");
-            System.out.println("--------------------------------");
-            System.out.println("1. Sort by Cost");
-            System.out.println("2. Sort by Title");
-            System.out.println("0. Back");
-            System.out.println("--------------------------------");
-            choice = scanner.nextInt();scanner.nextLine();
-            switch (choice) {
-                case 1:
-                    cart.sortByCostTitle();
-                    cart.showCart();
-                    break;
-                case 2:
-                    cart.sortByTitleCost();
-                    cart.showCart();
-                    break;
-                case 0:
-                    break;
-                default:
-                    System.out.println("Invalid choice");
-            }
-        } while(choice != 0);
-    }
     public static void removeMediaFromCart() {
         int choice;
         do {
@@ -387,7 +386,7 @@ public class Aims {
                 case 0:
                     break;
                 default:
-                    System.out.println("Invalid choice");
+                    System.out.println("Invalid choice!");
             }
         } while(choice != 0);
     }
