@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362ce411-6b83-4427-8259-214bc0af4164" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddBookToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddCDToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddDVDToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddItemToStoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AimsScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/CartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/CartScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/MediaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/StoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/fxml/cart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/Painter.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/Painter.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/Painter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/Painter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/PainterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/PainterController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2RphsIVWGQSWVeSg2EsRL2hBQIh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,11 +48,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hi/IdeaProjects/OOP_lab_test/Lab05/src/hust/soict/globalict/aims/media",
+    "last_opened_file_path": "C:/Users/Hi/IdeaProjects/OOP_lab_test/Lab05",
     "onboarding.tips.debug.path": "C:/Users/Hi/IdeaProjects/OOP_lab_test/Lab05/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
