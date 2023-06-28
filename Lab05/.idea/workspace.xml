@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362ce411-6b83-4427-8259-214bc0af4164" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddBookToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddCDToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddDVDToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AddItemToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/AimsScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/CartScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/CartScreenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/MediaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/StoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/aims/screen/fxml/cart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/Painter.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/Painter.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/Painter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/Painter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/program/javafx/PainterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/javafx/PainterController.java" afterDir="false" />
-    </list>
+    <list default="true" id="362ce411-6b83-4427-8259-214bc0af4164" name="Changes" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
